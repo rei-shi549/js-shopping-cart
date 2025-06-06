@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="ja">
-<meta charset=utf-8>
-
+<head>
+<meta charset="utf-8">
+<base href="/js-shopping-cart/">
+</head>
 <body>
 
 <h3>商品一覧</h3>
@@ -9,21 +11,21 @@
 <div id="items">
 
 <div class="item" data-id="apple">
-<img src="apple.jpg" width=120 height=90>
+<img src="/js-shopping-cart/apple.jpg" width=120 height=90>
 <div>&yen;<span class="price">100</span><span class="pieces"></span></div>
 <form>数量<input type="number" style="width:2em;" class="kazu" min="1" value="1"></form>
 <button type="button">add Cart</button>
 </div>
 
 <div class="item" data-id="orange">
-<img src="orange.jpg" width=120 height=90>
+<img src="/js-shopping-cart/orange.jpg" width=120 height=90>
 <div>&yen;<span class="price">200</span><span class="pieces"></span></div>
 <form>数量<input type="number" style="width:2em;" class="kazu" min="1" value="1"></form>
 <button type="button">add Cart</button>
 </div>
 
 <div class="item" data-id="grape">
-<img src="grape.jpg" width=120 height=90>
+<img src="/js-shopping-cart/grape.jpg" width=120 height=90>
 <div>&yen;<span class="price">100</span><span class="pieces"></span></div>
 <form>数量<input type="number" style="width:2em;" class="kazu" min="1" value="1"></form>
 <button type="button">add Cart</button>
@@ -39,7 +41,7 @@
 .item{ float:left; padding:5px; margin:1em; border:1px solid #ccc; width:120px; text-align:center; }
 </style>
 
-<script src="jQuery.js"></script>
+<script src="/js-shopping-cart/jQuery.js">
 <script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
 
 <script>
