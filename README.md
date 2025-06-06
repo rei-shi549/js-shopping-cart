@@ -1,6 +1,3 @@
-# js-shopping-cart
-shopping cart built with JavaScript &amp; jQuery
-
 #JavaScript ショッピングカート
 このプロジェクトは、JavaScript と jQuery を使用したシンプルなショッピングカート機能のデモです。数量選択・カート追加・削除・合計金額の計算までをブラウザ上で動作確認できます。
 
