@@ -23,17 +23,6 @@ DOM操作によるカート管理
 GitHub Pages上での動作を前提にしており、HTML内で <base href="/js-shopping-cart/"> を使用しています。
 ローカル環境で動作させる場合は、パスの修正が必要になる場合があります。
 
-#ファイル構成
-bash
-コピーする
-編集する
-/js-shopping-cart/
-├── index.html
-├── jQuery.js
-├── apple.jpg
-├── orange.jpg
-├── grape.jpg
-
 #制作意図・目的
 JavaScriptとjQueryの基礎力を確認するための制作演習
 Web制作実務における「ユーザーインターフェースと動的処理」の理解と実装練習
