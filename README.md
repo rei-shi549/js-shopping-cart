@@ -25,3 +25,20 @@ GitHub Pages上での動作を前提にしており、HTML内で <base href="/js
 JavaScriptとjQueryの基礎力を確認するための制作演習
 Web制作実務における「ユーザーインターフェースと動的処理」の理解と実装練習
 
+
+
+
+
+# ショッピングカート作品
+JavaScriptで作成した簡易ショッピングカートのデモです。
+
+## 🔧 使用技術
+- HTML/CSS
+- JavaScript
+- jQuery
+
+## 📷 スクリーンショット
+![screenshot](images/screenshot.png)
+
+## 🌐 デモページ
+[GitHub Pagesで公開中](https://ユーザー名.github.io/リポジトリ名/)
